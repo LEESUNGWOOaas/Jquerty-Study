@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8"pageEncoding="UTF-8"%>
+<%@page contentType="text/html; charset=UTF-8"pageEncoding= "UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,8 +19,24 @@
 			<div class="col-xs-2">
 				<button class="btn btn-primary" type="button">클릭!</button>
 			</div>
-			
 		</div>
+		<table class="table" style="text-align:center; border:1px solid #dddddd" ></table>
+			<thead>
+				<tr>
+					<th style="background-color: #fafafa; text-align: center;">이름</td>
+					<th style="background-color: #fafafa; text-align: center;">나이</td>
+					<th style="background-color: #fafafa; text-align: center;">성별</td>
+					<th style="background-color: #fafafa; text-align: center;">이메일</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>이성우</td>
+					<td>26</td>
+					<td>남자</td>
+					<td>keroro1945@naver.com</td>
+				</tr>
+			</tbody>
 	</div>
 </body>
 </html>
