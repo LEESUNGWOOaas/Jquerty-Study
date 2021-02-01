@@ -1,4 +1,4 @@
-# Jquerty-Study
+# JQuery-Study
 
 매우 간편하고 쉬운 JS기반 라이브러리 
 Ajax를 이용하는데 쓰이기도 하면 현재는 JS 표준만큼의 이용도를 가지고있다.
